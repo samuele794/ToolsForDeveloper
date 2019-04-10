@@ -1,8 +1,8 @@
 # ToolForDeveloper
 
 
-- [java tools](#java_tools)
-    * [json utilies](#json_utilies)
+- [java tools](#java-tools)
+    * [json utilies](#json-utilies)
         
 
 - javascript tools
