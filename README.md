@@ -1,16 +1,39 @@
 # ToolForDeveloper
 
+- [Java Tools](#java-tools)
 
-- [java tools](#java-tools)
-    * [json utilies](#json-utilies)
-        
+  * [json utilies](#json-utilies)
 
 - javascript tools
 
-- general tools
+- General Tools
+
+## **Java Tools**
+
+### Json Utilities
+
+- [JSON Schema 2 POJO](http://www.jsonschema2pojo.org/)
 
 
-## java tools
-### json utilies
 
-- javapojo
+## **General Tools**
+
+
+
+### Web Site
+
+- [JSON Viewer](https://codebeautify.org/jsonviewer)
+
+- [XML Viewer](https://codebeautify.org/xmlviewer)
+
+- [RSSViewer](https://codebeautify.org/rssviewer)
+
+- [Any API](https://any-api.com/)
+
+- [DevDocs](https://devdocs.io/)
+
+  - [DevDocs GitHub](https://github.com/freeCodeCamp/devdocs)
+
+###Programs
+
+-   
