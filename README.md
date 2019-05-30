@@ -55,6 +55,10 @@
 
 - [Sonarqube](https://www.sonarqube.org/)
 
+### Console Program
+
+- [Hyper](https://hyper.is/)
+
 ## IDE Plug-In
 
 ### JetBrains IntelliJ Plug-In
