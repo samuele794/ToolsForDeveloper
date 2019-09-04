@@ -94,6 +94,8 @@
 
 - [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
 
+- [JsonToKotlinClass](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+
 - [Request Mapper](https://plugins.jetbrains.com/plugin/9567-request-mapper)
 
 ### Visual Studio Code Plug-In
@@ -111,3 +113,5 @@
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
 - [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+- [SVG Viewer] (https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
