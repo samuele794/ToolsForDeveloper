@@ -28,6 +28,8 @@
 
 - [XML Viewer](https://codebeautify.org/xmlviewer)
 
+- [XML to JSON](https://codebeautify.org/xmltojson)
+
 - [RSSViewer](https://codebeautify.org/rssviewer)
 
 - [Any API](https://any-api.com/)
