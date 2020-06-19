@@ -4,8 +4,6 @@
 
   * [Json utilies](#json-utilies)
 
-- javascript tools
-
 - [General Tools](#general-tools)
 
 - [IDE Plug-In](#IDE-Plug-In)
