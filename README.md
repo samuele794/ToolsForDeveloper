@@ -69,7 +69,7 @@
 
 ## IDE Plug-In
 
-### JetBrains IntelliJ Plug-In
+### JetBrains IntelliJ / Android Studio  Plug-In
 
 - [Codota](https://www.codota.com/)
 
@@ -101,6 +101,18 @@
 
 - [Request Mapper](https://plugins.jetbrains.com/plugin/9567-request-mapper)
 
+- [Dagger](https://plugins.jetbrains.com/plugin/14211-dagger)
+
+  Utility tool for see dagger file injector
+  
+- [JSON To Kotlin Class (JsonToKotlinClass)](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+
+  Paste a JSON and get Kotlin Data Class
+  
+- [BugKotlinDocument](https://plugins.jetbrains.com/plugin/9781-bugkotlindocument)
+
+  Plug-in for help you generate Kotlin Doc
+
 ### Visual Studio Code Plug-In
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -117,4 +129,4 @@
 
 - [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- [SVG Viewer] (https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
